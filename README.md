@@ -5,4 +5,4 @@ networks, exposing region proposal computation as a bottleneck. Hence, Fatser RC
 that by introducing Regional Proposal Network (RPN), that shares full-image convolutional features
 with the detection network, thus enabling nearly cost-free region proposals.
 
-This is an benchmark implementation of Faster-RCNN using RESNET-50 fpn backbone and pretrained on COCO dataset. 
+This is a benchmark implementation of Faster-RCNN using RESNET-50 fpn backbone and pretrained on COCO dataset. 
